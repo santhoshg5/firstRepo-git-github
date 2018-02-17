@@ -5,3 +5,4 @@ duplicate from first branch
 
 text from branch2 - Modified
 
+Modified in master
